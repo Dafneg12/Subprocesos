@@ -1,0 +1,10 @@
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\WinFormsThreadSafeDemo\bin\Debug\WinFormsThreadSafeDemo.exe.config
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\WinFormsThreadSafeDemo\bin\Debug\WinFormsThreadSafeDemo.exe
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\WinFormsThreadSafeDemo\bin\Debug\WinFormsThreadSafeDemo.pdb
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\WinFormsThreadSafeDemo\obj\Debug\WinFormsThreadSafeDemo.csproj.AssemblyReference.cache
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\WinFormsThreadSafeDemo\obj\Debug\WinFormsThreadSafeDemo.Form1.resources
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\WinFormsThreadSafeDemo\obj\Debug\WinFormsThreadSafeDemo.Properties.Resources.resources
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\WinFormsThreadSafeDemo\obj\Debug\WinFormsThreadSafeDemo.csproj.GenerateResource.cache
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\WinFormsThreadSafeDemo\obj\Debug\WinFormsThreadSafeDemo.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\WinFormsThreadSafeDemo\obj\Debug\WinFormsThreadSafeDemo.exe
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\WinFormsThreadSafeDemo\obj\Debug\WinFormsThreadSafeDemo.pdb
